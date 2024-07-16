@@ -1,8 +1,9 @@
-# Email OSINT Tool+API ;)
-![Gemini_Generated_Image_8rz59v8rz59v8rz5](https://github.com/user-attachments/assets/7249242f-9ef6-4cd0-8233-ed67bc0be019)
+# An OSINT Tool that use API ;)
+![Gemini_Generated_Image_4u27cn4u27cn4u27](https://github.com/user-attachments/assets/87caca75-f1fa-47a1-af68-fe1f19e19527)
+
 # About
-This Tool use an *-API Key-* to display the leaked or breach data Direct to your **Terminal** (from this site breachdirectory.org)
-To use this tool you need to follow bilow steps-
+This Tool use an **-API key-** to display the leaked or breach data Direct to your **Terminal** (from this site breachdirectory.org)
+To use this tool you need to follow below steps-
 1) Sign Up or Sign In https://breachdirectory.org/ here
 2) click to **NEED API ACCESS** or click on menu then find **API** Button, click on it
    
