@@ -3,7 +3,7 @@
 
 # About & Description
 I use an **-API key-** to display the leaked or breach data Direct to your **Terminal** (from this site breachdirectory.org)
-To use this Me you need to follow below steps-
+To use Me you need to follow below steps-
 1) Sign Up or Sign In https://breachdirectory.org/ here
 2) click to **NEED API ACCESS** or click on menu then find **API** Button, click on it
    
@@ -27,7 +27,7 @@ To use this Me you need to follow below steps-
 
 > pip install -r requirements.txt
 
-# Tricky part (Don't edit entire code, Happy Search : )	
+# Tricky part (Don't edit entire code & Happy Search : )	
 
 7) Now copy the **API Key** from rapidapi.com which your Account that you created on the website and then paste in this file **pwned.py**
 > nano pwned.py
