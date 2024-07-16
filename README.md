@@ -14,7 +14,7 @@ To use Me you need to follow below steps-
 # Note with free account you get limit to use me 
 ![image](https://github.com/user-attachments/assets/bc7a1a96-8ab2-434e-b5ba-bd635963b485)
 
-6) On search bar, Search for this API:- **breach directory** click on it (Subscribe the API that you want to you it on right upper corner of website)
+6) On search bar, Search for this API:- **breach directory** click on it (Subscribe the API that you want to use, right upper corner of website)
 
 ![image](https://github.com/user-attachments/assets/32373ece-02e8-4a1a-8ed6-0278ead4fc12)
 
