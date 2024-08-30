@@ -1,6 +1,7 @@
 import sys,os,requests
 from colorama import Fore
 
+
 print(Fore.MAGENTA+"""
 ╭━━━╮╱╱╱╱╱╱╭╮╱╱╭━━━╮
 ┃╭━╮┃╱╱╱╱╱╭╯╰╮╱┃╭━━╯
@@ -9,15 +10,29 @@ print(Fore.MAGENTA+"""
 ┃╰━╯┣━━┃┃┃┃┃╰┳━┫╰━━┫╰━╯┃┃━┫
 ╰━━━┻━━┻┻╯╰┻━╯╱╰━━━┻━╮╭┻━━╯
 ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃
-╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯  -BY: HXCKYR
-""")
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯ """)
+print(Fore.RED+"""                        -BY: HXCKYR""")
 
-url = "https://breachdirectory.p.rapidapi.com/"
-user_input = input("Enter an EMAIL ADDRESS or USERNAME or DOMAIN : ")
-querystring = {"func":"auto","term": user_input}
-headers = {
-        "x-rapidapi-key": "d794df38bdmshce76243e0dc0a0fp1ec171jsn94d6013742e1",
-        "x-rapidapi-host": "breachdirectory.p.rapidapi.com"
-}
-response = requests.get(url, headers=headers, params=querystring)
-print(response.json())
+def display_menu():
+    print(Fore.GREEN + """
+    1: EMAILs & IT'S PASSWORDs Search
+    2:PHONE NUMBERs Search""")
+
+
+def execute_command(command):
+    if command == '1':
+        os.system('cmd /k "python3 Osint-Eye/url.py"' if os.name == 'nt' else 'python3 url.py')
+    elif command == '2':
+        print(Fore.RED + 'This option is not available yet! Coming soon...')
+        #os.system('cmd /k "python Zero-Web-Hacktool/web_bugger.py"')
+
+        display_menu()
+    else:
+        print('Invalid option! Please choose the correct one.')
+
+while True:
+    display_menu()
+    command = input('> ')
+
+    if command.lower() == 'exit':
+        break
