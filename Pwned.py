@@ -16,8 +16,8 @@ print(Fore.RED+"""                        -BY: HXCKYR""")
 def display_menu():
     print(Fore.GREEN + """
     1: EMAILs & IT'S PASSWORDs Search
-    2:PHONE NUMBERs Search""")
-
+    2: PHONE NUMBERs Search
+    3: For Exit""")
 
 def execute_command(command):
     if command == '1':
