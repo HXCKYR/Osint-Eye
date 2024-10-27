@@ -16,20 +16,18 @@ To use Me you need to follow below steps-
 4)[`Instagram Scraper`](https://rapidapi.com/social-api1-instagram/api/instagram-scraper-api2/playground/apiendpoint_3ad87605-1c3d-45bd-8b2c-5e42cb129536)
 5)[`linkedin Scraper`](https://rapidapi.com/freshdata-freshdata-default/api/fresh-linkedin-profile-data/playground/apiendpoint_f015adcb-0126-4ca6-8260-9912c1b9da5a)
 
-![Screenshot 2024-07-14 215338](https://github.com/user-attachments/assets/acbe6601-2d16-4586-8a3b-c5a4c625981a)
-
-4) you will redirect to new webite https://rapidapi.com/
-5) Create An Account with free plan (10 request per month) like I created a personal account
-# Note with free account you get limit to use me 
-![image](https://github.com/user-attachments/assets/bc7a1a96-8ab2-434e-b5ba-bd635963b485)
 6) In Future, more api will be add.......
 
 # Usage
+```
 > git clone https://github.com/HXCKYR/Osint-Eye.git
-
+```
+```
 > cd Osint-Eye
-
+```
+```
 > pip install -r requirements.txt
+```
 
 # Tricky part (Don't edit entire code & Happy Search : )	
 
@@ -41,5 +39,7 @@ To use Me you need to follow below steps-
 
 3) CTL+S and CTL+C, navigate to main branch of tree [`Osint-Eye`](https://github.com/HXCKYR/Osint-Eye/tree)
 4) now time to EXCUTE > main command in terminal
+```
 > python3 pwned.py
-![python3 pwned](https://github.com/user-attachments/assets/6fe0a7ab-bddf-4953-90a4-fec87f229018)
+```
+>![python3 pwned](https://github.com/user-attachments/assets/6fe0a7ab-bddf-4953-90a4-fec87f229018)
