@@ -62,8 +62,8 @@ To Use tool, you need to follow below steps-
 
 
 
+# This tool TESTed on
 
-#This tool tested or running
 1)**TERMUX**
 2)**KALI**
 3)**WINDOWS 11**
