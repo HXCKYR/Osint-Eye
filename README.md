@@ -37,7 +37,7 @@ To Use tool, you need to follow below steps-
 ```
 > ![api-key](https://github.com/user-attachments/assets/192fa6b9-ee7f-4433-b8dc-788d60532d03)
 
-2) Replay my **API KEY** with your **KEY** or **TOKEN** 🎁.
+2) Replay my **API KEY** with your **KEY** or **TOKEN** 🎁
 
 3) CTL+S and CTL+C, navigate to main branch of tree [`Osint-Eye`](https://github.com/HXCKYR/Osint-Eye/tree)
 4) now time to EXCUTEs command in terminal
