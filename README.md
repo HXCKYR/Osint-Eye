@@ -1,7 +1,7 @@
 # An OSINT Tool 🧰 that use API ; ) 
 ![Gemini_Generated_Image_4u27cn4u27cn4u27](https://github.com/user-attachments/assets/87caca75-f1fa-47a1-af68-fe1f19e19527)
 
-# About & Description
+# About & Description.
 This tool use an **API KEY** to display the user input 
 To Use tool, you need to follow below steps-
 1) Go to this website [`rapidapi`](https://rapidapi.com/)
@@ -12,7 +12,7 @@ To Use tool, you need to follow below steps-
 
 
 
-# Below is all of the **API KEYs**🔗, 
+# Below is all of the **API KEYs** 🔗. 
 1)[`Truecaller4`](https://rapidapi.com/DataCrawler/api/truecaller4/playground/apiendpoint_3898020c-f789-43b0-b071-15c571b26b20)
 
 2)[`Data Breach Checker`](https://rapidapi.com/vaibhavchandra2007/api/data-breach-checker)
@@ -28,7 +28,7 @@ To Use tool, you need to follow below steps-
 
 
 
-# Tricky Part 🧠 
+# Tricky Part 🧠.
 *(Don't edit entire script : )*	
 
 1) Now copy the **API Key** from rapidapi.com from your Account that you created on the website and then paste inside this folders files **Osint-Eye/bin/** i.e data_breach_checker.py
@@ -37,7 +37,7 @@ To Use tool, you need to follow below steps-
 ```
 > ![api-key](https://github.com/user-attachments/assets/192fa6b9-ee7f-4433-b8dc-788d60532d03)
 
-2) Replay my **API KEY** with your **KEY** or **TOKEN** 🎁
+2) Replay my **API KEY** with your **KEY** or **TOKEN** 🎁.
 
 3) CTL+S and CTL+C, navigate to main branch of tree [`Osint-Eye`](https://github.com/HXCKYR/Osint-Eye/tree)
 4) now time to EXCUTEs command in terminal
@@ -45,7 +45,7 @@ To Use tool, you need to follow below steps-
 
 
 
-# Usage 👨🏻‍💻
+# Usage 👨🏻‍💻.
 ```
 > git clone https://github.com/HXCKYR/Osint-Eye.git
 ```
@@ -62,7 +62,7 @@ To Use tool, you need to follow below steps-
 
 
 
-# This tool TESTed on
+# This tool TESTed on 🧪.
 
 1)**TERMUX**
 
