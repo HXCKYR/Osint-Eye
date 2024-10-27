@@ -2,7 +2,7 @@
 ![Gemini_Generated_Image_4u27cn4u27cn4u27](https://github.com/user-attachments/assets/87caca75-f1fa-47a1-af68-fe1f19e19527)
 
 # About & Description
-I use an **API KEY** to display the leaked or breach data Direct to your **Terminal** (from this site breachdirectory.org)
+This tool use an **API KEY** to display the user input 
 To use Me you need to follow below steps-
 1) Go to this website [`rapidapi`](https://rapidapi.com/)
 2) SIGN IN or SIGN UP
@@ -18,17 +18,6 @@ To use Me you need to follow below steps-
 
 6) In Future, more api will be add.......
 
-# Usage
-```
-> git clone https://github.com/HXCKYR/Osint-Eye.git
-```
-```
-> cd Osint-Eye
-```
-```
-> pip install -r requirements.txt
-```
-
 # Tricky part (Don't edit entire code & Happy Search : )	
 
 1) Now copy the **API Key** from rapidapi.com which your Account that you created on the website and then paste inside this folders files **Osint-Eye/bin/** i.e data_breach_checker.py
@@ -43,3 +32,16 @@ To use Me you need to follow below steps-
 > python3 pwned.py
 ```
 >![python3 pwned](https://github.com/user-attachments/assets/6fe0a7ab-bddf-4953-90a4-fec87f229018)
+
+# Usage
+```
+> git clone https://github.com/HXCKYR/Osint-Eye.git
+```
+```
+> cd Osint-Eye
+```
+```
+> pip install -r requirements.txt
+```
+
+
