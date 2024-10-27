@@ -17,19 +17,19 @@ To Use tool, you need to follow below steps-
 
 2)[`Data Breach Checker`](https://rapidapi.com/vaibhavchandra2007/api/data-breach-checker)
    
-[`Website Contacts Scraper`](https://rapidapi.com/letscrape-6bRBa3QguO5/api/website-contacts-scraper/playground/apiendpoint_ee6b910e-3333-4dea-b4a2-0b21fe48427c)
+3)[`Website Contacts Scraper`](https://rapidapi.com/letscrape-6bRBa3QguO5/api/website-contacts-scraper/playground/apiendpoint_ee6b910e-3333-4dea-b4a2-0b21fe48427c)
  
 4)[`Instagram Scraper`](https://rapidapi.com/social-api1-instagram/api/instagram-scraper-api2/playground/apiendpoint_3ad87605-1c3d-45bd-8b2c-5e42cb129536)
 
 5)[`linkedin Scraper`](https://rapidapi.com/freshdata-freshdata-default/api/fresh-linkedin-profile-data/playground/apiendpoint_f015adcb-0126-4ca6-8260-9912c1b9da5a)
 
-6)In Future, more api will be add.......
+6) In Future, more api will be add.......
 
 
 
 
 # Tricky Part 🧠 
-(Don't edit entire script : )	
+*(Don't edit entire script : )*	
 
 1) Now copy the **API Key** from rapidapi.com from your Account that you created on the website and then paste inside this folders files **Osint-Eye/bin/** i.e data_breach_checker.py
 ```
