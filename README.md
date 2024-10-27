@@ -23,7 +23,7 @@ To Use tool, you need to follow below steps-
 
 5)[`linkedin Scraper`](https://rapidapi.com/freshdata-freshdata-default/api/fresh-linkedin-profile-data/playground/apiendpoint_f015adcb-0126-4ca6-8260-9912c1b9da5a)
 
-6) In Future, more api will be add.......
+6)In Future, more api will be add.......
 
 
 
