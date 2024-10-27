@@ -20,18 +20,15 @@ To use Me you need to follow below steps-
 
 # Tricky part (Don't edit entire code & Happy Search : )	
 
-1) Now copy the **API Key** from rapidapi.com which your Account that you created on the website and then paste inside this folders files **Osint-Eye/bin/** i.e data_breach_checker.py
+1) Now copy the **API Key** from rapidapi.com from your Account that you created on the website and then paste inside this folders files **Osint-Eye/bin/** i.e data_breach_checker.py
 > nano data_breach_checker.py
 > ![api-key](https://github.com/user-attachments/assets/192fa6b9-ee7f-4433-b8dc-788d60532d03)
 
 2) Replay my **API KEY** with your **KEY** or **TOKEN**
 
 3) CTL+S and CTL+C, navigate to main branch of tree [`Osint-Eye`](https://github.com/HXCKYR/Osint-Eye/tree)
-4) now time to EXCUTE > main command in terminal
+4) now time to EXCUTEs command in terminal
 ```
-> python3 pwned.py
-```
->![python3 pwned](https://github.com/user-attachments/assets/6fe0a7ab-bddf-4953-90a4-fec87f229018)
 
 # Usage
 ```
@@ -43,5 +40,9 @@ To use Me you need to follow below steps-
 ```
 > pip install -r requirements.txt
 ```
+```
+> python3 pwned.py
+```
+>![python3 pwned](https://github.com/user-attachments/assets/6fe0a7ab-bddf-4953-90a4-fec87f229018)
 
 
