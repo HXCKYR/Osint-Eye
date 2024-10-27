@@ -11,14 +11,20 @@ To Use tool, you need to follow below steps-
 
 
 
+
 # Below is all of the **API KEYs**🔗, 
-that i used in this [`TOOL`](https://github.com/HXCKYR/Osint-Eye/tree/main)
 1)[`Truecaller4`](https://rapidapi.com/DataCrawler/api/truecaller4/playground/apiendpoint_3898020c-f789-43b0-b071-15c571b26b20)
+
 2) [`Data Breach Checker`](https://rapidapi.com/vaibhavchandra2007/api/data-breach-checker)
+   
 3) [`Website Contacts Scraper`](https://rapidapi.com/letscrape-6bRBa3QguO5/api/website-contacts-scraper/playground/apiendpoint_ee6b910e-3333-4dea-b4a2-0b21fe48427c)
+ 
 4)[`Instagram Scraper`](https://rapidapi.com/social-api1-instagram/api/instagram-scraper-api2/playground/apiendpoint_3ad87605-1c3d-45bd-8b2c-5e42cb129536)
+
 5)[`linkedin Scraper`](https://rapidapi.com/freshdata-freshdata-default/api/fresh-linkedin-profile-data/playground/apiendpoint_f015adcb-0126-4ca6-8260-9912c1b9da5a)
+
 6) In Future, more api will be add.......
+
 
 
 
@@ -35,6 +41,7 @@ that i used in this [`TOOL`](https://github.com/HXCKYR/Osint-Eye/tree/main)
 
 3) CTL+S and CTL+C, navigate to main branch of tree [`Osint-Eye`](https://github.com/HXCKYR/Osint-Eye/tree)
 4) now time to EXCUTEs command in terminal
+
 
 
 
