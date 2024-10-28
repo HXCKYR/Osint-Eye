@@ -1,13 +1,13 @@
-# An OSINT Tool 🧰 that use API ; ) 
+# An OSINT Tool 🧰, that use API ; ) 
 ![Gemini_Generated_Image_4u27cn4u27cn4u27](https://github.com/user-attachments/assets/87caca75-f1fa-47a1-af68-fe1f19e19527)
 
-# About & Description.
-This tool use an **API KEY** to display the user input 
-To Use tool, you need to follow below steps-
-1) Go to this website [`rapidapi`](https://rapidapi.com/)
-2) SIGN IN or SIGN UP
-3) Navigate all the **API KEY** or Collect all the api key and save to the [`Osint-Eye/bin`](https://github.com/HXCKYR/Osint-Eye/tree/main/bin). *see* **Tricky Part** below..👇
-4) i.e inside [`Osint-Eye/bin/instagram/instagram-scraper.py`](https://github.com/HXCKYR/Osint-Eye/blob/main/bin/instagram/instagram-scraper.py) paste your **API KEY**. Do same as all of the bin program file.....
+# About & Description 📄.
+This tool use an **API KEY** to display the user input.
+To Use this tool, you need to follow below 👇 steps-
+1)Go to this website [`rapidapi`](https://rapidapi.com/)
+2)SIGN IN or SIGN UP
+3)Navigate all the **API KEY** or Collect all the api key and save to the [`Osint-Eye/bin`](https://github.com/HXCKYR/Osint-Eye/tree/main/bin). *see* **Tricky Part** below..👇
+4)i.e inside [`Osint-Eye/bin/instagram/instagram-scraper.py`](https://github.com/HXCKYR/Osint-Eye/blob/main/bin/instagram/instagram-scraper.py) paste your **API KEY**. Do same as all of the bin program file.....
 
 
 
@@ -40,7 +40,7 @@ To Use tool, you need to follow below steps-
 2) Replay my **API KEY** with your **KEY** or **TOKEN** 🎁
 
 3) CTL+S and CTL+C, navigate to main branch of tree [`Osint-Eye`](https://github.com/HXCKYR/Osint-Eye/tree)
-4) now time to EXCUTEs command in terminal
+4) now time to EXECUTEs command in terminal
 
 
 
