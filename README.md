@@ -4,6 +4,7 @@
 # About & Description 📄.
 This tool use an **API KEY** to display the user input.
 To Use this tool, you need to follow below 👇 steps-
+
 1)Go to this website [`rapidapi`](https://rapidapi.com/)
 2)SIGN IN or SIGN UP
 3)Navigate all the **API KEY** or Collect all the api key and save to the [`Osint-Eye/bin`](https://github.com/HXCKYR/Osint-Eye/tree/main/bin). *see* **Tricky Part** below..👇
