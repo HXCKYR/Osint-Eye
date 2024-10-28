@@ -6,8 +6,11 @@ This tool use an **API KEY** to display the user input.
 To Use this tool, you need to follow below 👇 steps-
 
 1)Go to this website [`rapidapi`](https://rapidapi.com/)
+
 2)SIGN IN or SIGN UP
+
 3)Navigate all the **API KEY** or Collect all the api key and save to the [`Osint-Eye/bin`](https://github.com/HXCKYR/Osint-Eye/tree/main/bin). *see* **Tricky Part** below..👇
+
 4)i.e inside [`Osint-Eye/bin/instagram/instagram-scraper.py`](https://github.com/HXCKYR/Osint-Eye/blob/main/bin/instagram/instagram-scraper.py) paste your **API KEY**. Do same as all of the bin program file.....
 
 
@@ -32,16 +35,17 @@ To Use this tool, you need to follow below 👇 steps-
 # Tricky Part 🧠.
 *(Don't edit entire script : )*	
 
-1) Now copy the **API Key** from rapidapi.com from your Account that you created on the website and then paste inside this folders files **Osint-Eye/bin/** i.e data_breach_checker.py
+1)Now copy the **API Key** from rapidapi.com from your Account that you created on the website and then paste inside this folders files **Osint-Eye/bin/** i.e data_breach_checker.py
 ```
 > nano data_breach_checker.py
 ```
 > ![api-key](https://github.com/user-attachments/assets/192fa6b9-ee7f-4433-b8dc-788d60532d03)
 
-2) Replay my **API KEY** with your **KEY** or **TOKEN** 🎁
+2)Replay my **API KEY** with your **KEY** or **TOKEN** 🎁
 
-3) CTL+S and CTL+C, navigate to main branch of tree [`Osint-Eye`](https://github.com/HXCKYR/Osint-Eye/tree)
-4) now time to EXECUTEs command in terminal
+3)CTL+S and CTL+C, navigate to main branch of tree [`Osint-Eye`](https://github.com/HXCKYR/Osint-Eye/tree)
+ 
+4)now time to EXECUTEs command in terminal
 
 
 
