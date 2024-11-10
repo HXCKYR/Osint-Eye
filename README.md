@@ -63,7 +63,8 @@ To Use this tool, you need to follow below 👇 steps-
 ```
 > python3 pwned.py
 ```
-> ![python3 pwned]![hxckyr](https://github.com/user-attachments/assets/41f2dc3c-1a10-40c7-8fcd-909d8fc4bb71))in wsl(ubuntu).
+> ![hxckyr](https://github.com/user-attachments/assets/756287f2-3f74-4c13-aab6-c16aa20d58b2)
+in wsl(ubuntu).
 
 
 
