@@ -42,7 +42,7 @@ def save_scraped_data(data, filename):
 
 if __name__ == "__main__":
   url = get_website_url()
-  api_key = "990120e17dmsh4b3657040ff1ca1p1bd2aajsnb9f251758XXX"  # Replace with your actual API key
+  api_key = "990120e17dmsh4b3657040ff1ca1p1bd2aajsnb9f251758b32"  # Replace with your actual API key
 
   scraped_data = scrape_website_contacts(url, api_key)
 
