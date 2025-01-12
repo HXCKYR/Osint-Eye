@@ -28,7 +28,7 @@ if __name__ == "__main__":
                  "phoneNumber": phone_number}
 
   headers = {
-      "x-rapidapi-key": "d794df38bdmshce76243e0dc0a0fp1ec171jsn94d601374XXX",  # Replace with your actual API key (avoid sharing publicly)
+      "x-rapidapi-key": "d794df38bdmshce76243e0dc0a0fp1ec171jsn94d6013742e1",  # Replace with your actual API key (avoid sharing publicly)
       "x-rapidapi-host": "truecaller4.p.rapidapi.com"
   }
 
