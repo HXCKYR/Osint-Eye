@@ -30,7 +30,7 @@ if __name__ == "__main__":
       "include_company_public_url": "false"
   }
   headers = {
-      "x-rapidapi-key": "d794df38bdmshce76243e0dc0a0fp1ec171jsn94d601374XXX",  # Replace with your actual API key (avoid sharing publicly)
+      "x-rapidapi-key": "d794df38bdmshce76243e0dc0a0fp1ec171jsn94d6013742e1",  # Replace with your actual API key (avoid sharing publicly)
       "x-rapidapi-host": "fresh-linkedin-profile-data.p.rapidapi.com"
   }
 
