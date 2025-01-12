@@ -29,7 +29,7 @@ def check_data_breach(email, api_key):
 
 if __name__ == "__main__":
   email = get_email_input()
-  api_key = "d794df38bdmshce76243e0dc0a0fp1ec171jsn94d601374XXX"  # Replace with your actual API key
+  api_key = "d794df38bdmshce76243e0dc0a0fp1ec171jsn94d6013742e1"  # Replace with your actual API key
   data = check_data_breach(email, api_key)
 
   if data:
