@@ -15,7 +15,7 @@ if __name__ == "__main__":
   querystring = {"username_or_id_or_url": user_input}
 
   headers = {
-        "x-rapidapi-key": "990120e17dmsh4b3657040ff1ca1p1bd2aajsnb9f251758XXX",  # Replace with your actual API key (avoid sharing publicly)
+        "x-rapidapi-key": "990120e17dmsh4b3657040ff1ca1p1bd2aajsnb9f251758b32",  # Replace with your actual API key (avoid sharing publicly)
         "x-rapidapi-host": "instagram-scraper-api2.p.rapidapi.com"
   }
 
